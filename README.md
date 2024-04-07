@@ -1,18 +1,10 @@
 **Project Overview**
-This project is a Java program designed to demonstrate various mathematical operations and algorithms. 
-It provides a menu-driven interface where users can choose from ten different tasks, each representing 
-a specific mathematical operation or algorithm. The tasks include finding the minimum value in an array, 
-calculating averages, checking for prime numbers, calculating factorials, finding Fibonacci numbers, 
-computing powers, reversing input, checking for digits in a string, calculating binomial coefficients, 
-and finding the greatest common divisor (GCD) of two numbers.
-
+This Java project aims to showcase various mathematical operations and algorithms through a program. It offers a user-friendly interface driven by a menu, presenting ten distinct tasks representing specific mathematical operations or algorithms. These tasks encompass a range of functionalities including identifying minimum values in arrays, computing averages, verifying prime numbers, calculating factorials, determining Fibonacci numbers, evaluating powers, reversing input, searching for digits in strings, computing binomial coefficients, and finding the greatest common divisor (GCD) of two numbers.
 **Building the Project**
-Ensure you have Java Development Kit (JDK) installed on your system.
-Clone the project repository to your local machine or download the source code files.
-
+To begin, ensure that you have the Java Development Kit (JDK) installed on your system. Next, either clone the project repository to your local machine or download the source code files.
 **Testing and Running**
-1 Each task method in the Main class corresponds to a specific functionality.
-2 You can test each task individually by running the program and selecting the desired task by entering the problem number.
-3 All separate inputs can be separated by space(s) 
+1 Each task method within the Main class corresponds to a particular functionality.
+2 You can individually test each task by running the program and selecting the desired task through inputting its corresponding problem number.
+3 For tasks requiring separate inputs, ensure to space them appropriately.
 
 
